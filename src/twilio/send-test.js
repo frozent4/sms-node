@@ -1,5 +1,5 @@
 const config = require("../config");
-const client = require("twilio")('AC5256816ca09462355338e0d3295546a5', '9f74e0623ba9963874a6698cc67f0ff7');
+const client = require("twilio")('AC5256816ca09462355338e0d3295546a5', '');
 
 
 
